@@ -1,0 +1,46 @@
+body{
+  background-color: #b2ebf2;
+}
+.librarysystemtitle{
+  text-align: center;
+    font-size: 2rem;
+}
+.container-fluid{
+  padding: 0;
+}
+.buttons{
+  text-align: right;
+  padding: 2% 5% 0 0;
+}
+#books{
+  padding: 7% 15%;
+  text-align: center;
+}
+.book-image{
+  width: 300px;
+}
+.pageheader{
+  background-color: #292b2c;
+  text-align: center;
+  font-size: 2rem;
+  font-family: sans-serif;
+  color: #f7f7f7;
+}
+.user-form{
+  padding: 5% 0 0 0;
+  font-size: 2rem;
+}
+.loginForm{
+  padding: 0 15% 0 15%;
+  font-size: 1.5rem;
+  margin-top: 10px;
+}
+.createAccountForm{
+  padding: 0 15% 0 15%;
+  font-size: 1.5rem;
+  margin-top: 10px;
+}
+.loginButton{
+  text-align: right;
+  padding: 0 0 0 0;
+}
